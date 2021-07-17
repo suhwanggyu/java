@@ -1,6 +1,5 @@
 import java.io.BufferedOutputStream;
 import java.io.FileOutputStream;
-import java.io.FilterInputStream;
 import java.io.IOException;
 
 public class BufferedOutputStreamEx1 {
